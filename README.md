@@ -1,5 +1,5 @@
 
-# SuperStore_Data_Analysis_In_PowerBI
+# Data_analysis_in_powerbi
 
 Compilation of Power_BI data analysis related projects and challenges where I can use my analysis skills.
 
